@@ -1083,6 +1083,7 @@ textarea#comment::placeholder {
   margin: 0px;
   padding: 0px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
